@@ -1,0 +1,3098 @@
+[
+  {
+    "SL.No.": 1,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 13040,
+    "PASSENGERS\n FROM CITY 2": 12598,
+    "FREIGHT\n TO CITY 2": 108.214,
+    "FREIGHT\n FROM CITY 2": 105.678
+  },
+  {
+    "SL.No.": 2,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 37007,
+    "PASSENGERS\n FROM CITY 2": 35619,
+    "FREIGHT\n TO CITY 2": 771.578,
+    "FREIGHT\n FROM CITY 2": 991.907
+  },
+  {
+    "SL.No.": 3,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 28166,
+    "PASSENGERS\n FROM CITY 2": 32932,
+    "FREIGHT\n TO CITY 2": 97.38,
+    "FREIGHT\n FROM CITY 2": 187.15
+  },
+  {
+    "SL.No.": 4,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 95207,
+    "PASSENGERS\n FROM CITY 2": 92126,
+    "FREIGHT\n TO CITY 2": 451.45,
+    "FREIGHT\n FROM CITY 2": 1595.054
+  },
+  {
+    "SL.No.": 5,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 34814,
+    "PASSENGERS\n FROM CITY 2": 36344,
+    "FREIGHT\n TO CITY 2": 187.133,
+    "FREIGHT\n FROM CITY 2": 571.449
+  },
+  {
+    "SL.No.": 6,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 84415,
+    "PASSENGERS\n FROM CITY 2": 74528,
+    "FREIGHT\n TO CITY 2": 207.696,
+    "FREIGHT\n FROM CITY 2": 1098.759
+  },
+  {
+    "SL.No.": 7,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 11592,
+    "PASSENGERS\n FROM CITY 2": 11368,
+    "FREIGHT\n TO CITY 2": 7.766,
+    "FREIGHT\n FROM CITY 2": 115.784
+  },
+  {
+    "SL.No.": 8,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 57138,
+    "PASSENGERS\n FROM CITY 2": 47233,
+    "FREIGHT\n TO CITY 2": 28.572,
+    "FREIGHT\n FROM CITY 2": 382.995
+  },
+  {
+    "SL.No.": 9,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 8375,
+    "PASSENGERS\n FROM CITY 2": 7604,
+    "FREIGHT\n TO CITY 2": 0.254,
+    "FREIGHT\n FROM CITY 2": 20.776
+  },
+  {
+    "SL.No.": 10,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 92740,
+    "PASSENGERS\n FROM CITY 2": 90621,
+    "FREIGHT\n TO CITY 2": 1473.118,
+    "FREIGHT\n FROM CITY 2": 3253.7319
+  },
+  {
+    "SL.No.": 11,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 28824,
+    "PASSENGERS\n FROM CITY 2": 25931,
+    "FREIGHT\n TO CITY 2": 4.423,
+    "FREIGHT\n FROM CITY 2": 277.171
+  },
+  {
+    "SL.No.": 12,
+    "CITY 1": "ABUDHABI",
+    "CITY 2": "KANNUR",
+    "PASSENGERS\n TO CITY 2": 23365,
+    "PASSENGERS\n FROM CITY 2": 19651,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 13,
+    "CITY 1": "ADDIS ABABA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 21923,
+    "PASSENGERS\n FROM CITY 2": 25815,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 367.331
+  },
+  {
+    "SL.No.": 14,
+    "CITY 1": "ADDIS ABABA",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 17652,
+    "PASSENGERS\n FROM CITY 2": 16356,
+    "FREIGHT\n TO CITY 2": 236.039,
+    "FREIGHT\n FROM CITY 2": 1176.551
+  },
+  {
+    "SL.No.": 15,
+    "CITY 1": "ADEN",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 2499,
+    "PASSENGERS\n FROM CITY 2": 3076,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 9.231
+  },
+  {
+    "SL.No.": 16,
+    "CITY 1": "AL AIN",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 166,
+    "PASSENGERS\n FROM CITY 2": 110,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 17,
+    "CITY 1": "AL AIN",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 3819,
+    "PASSENGERS\n FROM CITY 2": 3151,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 18,
+    "CITY 1": "AL AIN",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 16,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 19,
+    "CITY 1": "ALMATY",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 1507,
+    "PASSENGERS\n FROM CITY 2": 1999,
+    "FREIGHT\n TO CITY 2": 5.983,
+    "FREIGHT\n FROM CITY 2": 39.905
+  },
+  {
+    "SL.No.": 20,
+    "CITY 1": "ALMATY",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 237,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 21,
+    "CITY 1": "AMSTERDAM",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 1541,
+    "PASSENGERS\n FROM CITY 2": 2729,
+    "FREIGHT\n TO CITY 2": 75.69,
+    "FREIGHT\n FROM CITY 2": 70.1706
+  },
+  {
+    "SL.No.": 22,
+    "CITY 1": "AMSTERDAM",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 26948,
+    "PASSENGERS\n FROM CITY 2": 28235,
+    "FREIGHT\n TO CITY 2": 1159.189,
+    "FREIGHT\n FROM CITY 2": 1656.4615
+  },
+  {
+    "SL.No.": 23,
+    "CITY 1": "AMSTERDAM",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 12981,
+    "PASSENGERS\n FROM CITY 2": 14843,
+    "FREIGHT\n TO CITY 2": 685.1683,
+    "FREIGHT\n FROM CITY 2": 815.7791
+  },
+  {
+    "SL.No.": 24,
+    "CITY 1": "ASHGABAT",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 5329,
+    "PASSENGERS\n FROM CITY 2": 5548,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 164.808
+  },
+  {
+    "SL.No.": 25,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 11938,
+    "PASSENGERS\n FROM CITY 2": 10227,
+    "FREIGHT\n TO CITY 2": 1393.175,
+    "FREIGHT\n FROM CITY 2": 193.975
+  },
+  {
+    "SL.No.": 26,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 21520,
+    "PASSENGERS\n FROM CITY 2": 19221,
+    "FREIGHT\n TO CITY 2": 33.274,
+    "FREIGHT\n FROM CITY 2": 355.072
+  },
+  {
+    "SL.No.": 27,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 36544,
+    "PASSENGERS\n FROM CITY 2": 35560,
+    "FREIGHT\n TO CITY 2": 54.62,
+    "FREIGHT\n FROM CITY 2": 531.7988
+  },
+  {
+    "SL.No.": 28,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 17182,
+    "PASSENGERS\n FROM CITY 2": 14757,
+    "FREIGHT\n TO CITY 2": 4.45,
+    "FREIGHT\n FROM CITY 2": 212.315
+  },
+  {
+    "SL.No.": 29,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 20789,
+    "PASSENGERS\n FROM CITY 2": 17969,
+    "FREIGHT\n TO CITY 2": 34.668,
+    "FREIGHT\n FROM CITY 2": 209.332
+  },
+  {
+    "SL.No.": 30,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 21179,
+    "PASSENGERS\n FROM CITY 2": 18958,
+    "FREIGHT\n TO CITY 2": 23.818,
+    "FREIGHT\n FROM CITY 2": 285.576
+  },
+  {
+    "SL.No.": 31,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 2558,
+    "PASSENGERS\n FROM CITY 2": 2990,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 36.065
+  },
+  {
+    "SL.No.": 32,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 29180,
+    "PASSENGERS\n FROM CITY 2": 29222,
+    "FREIGHT\n TO CITY 2": 44.138,
+    "FREIGHT\n FROM CITY 2": 592.628
+  },
+  {
+    "SL.No.": 33,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 16738,
+    "PASSENGERS\n FROM CITY 2": 14062,
+    "FREIGHT\n TO CITY 2": 9.45,
+    "FREIGHT\n FROM CITY 2": 250.194
+  },
+  {
+    "SL.No.": 34,
+    "CITY 1": "BAHRAIN",
+    "CITY 2": "KANNUR",
+    "PASSENGERS\n TO CITY 2": 2533,
+    "PASSENGERS\n FROM CITY 2": 3171,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 35,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 16297,
+    "PASSENGERS\n FROM CITY 2": 14256,
+    "FREIGHT\n TO CITY 2": 9.89831,
+    "FREIGHT\n FROM CITY 2": 91.87626
+  },
+  {
+    "SL.No.": 36,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 42484,
+    "PASSENGERS\n FROM CITY 2": 42698,
+    "FREIGHT\n TO CITY 2": 849.005,
+    "FREIGHT\n FROM CITY 2": 1300.736
+  },
+  {
+    "SL.No.": 37,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 35760,
+    "PASSENGERS\n FROM CITY 2": 37750,
+    "FREIGHT\n TO CITY 2": 885.069,
+    "FREIGHT\n FROM CITY 2": 1325.216
+  },
+  {
+    "SL.No.": 38,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 120174,
+    "PASSENGERS\n FROM CITY 2": 133298,
+    "FREIGHT\n TO CITY 2": 3300.52469,
+    "FREIGHT\n FROM CITY 2": 1339.38328
+  },
+  {
+    "SL.No.": 39,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 22739,
+    "PASSENGERS\n FROM CITY 2": 24610,
+    "FREIGHT\n TO CITY 2": 940.597,
+    "FREIGHT\n FROM CITY 2": 818.369
+  },
+  {
+    "SL.No.": 40,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "JAIPUR",
+    "PASSENGERS\n TO CITY 2": 2528,
+    "PASSENGERS\n FROM CITY 2": 2153,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 41,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 77182,
+    "PASSENGERS\n FROM CITY 2": 76965,
+    "FREIGHT\n TO CITY 2": 840.68039,
+    "FREIGHT\n FROM CITY 2": 1128.760498
+  },
+  {
+    "SL.No.": 42,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "LUCKNOW",
+    "PASSENGERS\n TO CITY 2": 5116,
+    "PASSENGERS\n FROM CITY 2": 4331,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 43,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 84249,
+    "PASSENGERS\n FROM CITY 2": 85475,
+    "FREIGHT\n TO CITY 2": 3670.43092,
+    "FREIGHT\n FROM CITY 2": 2102.00579
+  },
+  {
+    "SL.No.": 44,
+    "CITY 1": "BANGKOK",
+    "CITY 2": "VARANASI",
+    "PASSENGERS\n TO CITY 2": 14443,
+    "PASSENGERS\n FROM CITY 2": 11783,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 12.016
+  },
+  {
+    "SL.No.": 45,
+    "CITY 1": "BASRA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 9612,
+    "PASSENGERS\n FROM CITY 2": 9538,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 46,
+    "CITY 1": "BIRMINGHAM",
+    "CITY 2": "AMRITSAR",
+    "PASSENGERS\n TO CITY 2": 3486,
+    "PASSENGERS\n FROM CITY 2": 4330,
+    "FREIGHT\n TO CITY 2": 0.57,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 47,
+    "CITY 1": "BIRMINGHAM",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 4938,
+    "PASSENGERS\n FROM CITY 2": 4922,
+    "FREIGHT\n TO CITY 2": 46.1102,
+    "FREIGHT\n FROM CITY 2": 258.3621
+  },
+  {
+    "SL.No.": 48,
+    "CITY 1": "CAIRO",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 7848,
+    "PASSENGERS\n FROM CITY 2": 6909,
+    "FREIGHT\n TO CITY 2": 83.905,
+    "FREIGHT\n FROM CITY 2": 44.553
+  },
+  {
+    "SL.No.": 49,
+    "CITY 1": "CHICAGO",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 20486,
+    "PASSENGERS\n FROM CITY 2": 25462,
+    "FREIGHT\n TO CITY 2": 358.3753,
+    "FREIGHT\n FROM CITY 2": 572.6434
+  },
+  {
+    "SL.No.": 50,
+    "CITY 1": "CHICAGO",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 1770,
+    "PASSENGERS\n FROM CITY 2": 1842,
+    "FREIGHT\n TO CITY 2": 0.083,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 51,
+    "CITY 1": "CHITTAGONG",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 20025,
+    "PASSENGERS\n FROM CITY 2": 20835,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 21.444
+  },
+  {
+    "SL.No.": 52,
+    "CITY 1": "COLOGNE",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 1406.29
+  },
+  {
+    "SL.No.": 53,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 32294,
+    "PASSENGERS\n FROM CITY 2": 28789,
+    "FREIGHT\n TO CITY 2": 272.97,
+    "FREIGHT\n FROM CITY 2": 691.898
+  },
+  {
+    "SL.No.": 54,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 108965,
+    "PASSENGERS\n FROM CITY 2": 104221,
+    "FREIGHT\n TO CITY 2": 1756.38357,
+    "FREIGHT\n FROM CITY 2": 1838.72335
+  },
+  {
+    "SL.No.": 55,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "COIMBATORE",
+    "PASSENGERS\n TO CITY 2": 5077,
+    "PASSENGERS\n FROM CITY 2": 5016,
+    "FREIGHT\n TO CITY 2": 2.23,
+    "FREIGHT\n FROM CITY 2": 129.964
+  },
+  {
+    "SL.No.": 56,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 35907,
+    "PASSENGERS\n FROM CITY 2": 35278,
+    "FREIGHT\n TO CITY 2": 667.0199,
+    "FREIGHT\n FROM CITY 2": 285.1182
+  },
+  {
+    "SL.No.": 57,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 9217,
+    "PASSENGERS\n FROM CITY 2": 6765,
+    "FREIGHT\n TO CITY 2": 5.216,
+    "FREIGHT\n FROM CITY 2": 34.683
+  },
+  {
+    "SL.No.": 58,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 18210,
+    "PASSENGERS\n FROM CITY 2": 22782,
+    "FREIGHT\n TO CITY 2": 254.019,
+    "FREIGHT\n FROM CITY 2": 314.936
+  },
+  {
+    "SL.No.": 59,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 6203,
+    "PASSENGERS\n FROM CITY 2": 5183,
+    "FREIGHT\n TO CITY 2": 2.415,
+    "FREIGHT\n FROM CITY 2": 82.603
+  },
+  {
+    "SL.No.": 60,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "MADURAI",
+    "PASSENGERS\n TO CITY 2": 17751,
+    "PASSENGERS\n FROM CITY 2": 14979,
+    "FREIGHT\n TO CITY 2": 7.745,
+    "FREIGHT\n FROM CITY 2": 207.979
+  },
+  {
+    "SL.No.": 61,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 24946,
+    "PASSENGERS\n FROM CITY 2": 27345,
+    "FREIGHT\n TO CITY 2": 155.834,
+    "FREIGHT\n FROM CITY 2": 439.1501
+  },
+  {
+    "SL.No.": 62,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "TIRUCHIRAPALLY",
+    "PASSENGERS\n TO CITY 2": 24615,
+    "PASSENGERS\n FROM CITY 2": 24244,
+    "FREIGHT\n TO CITY 2": 8.754,
+    "FREIGHT\n FROM CITY 2": 496.594
+  },
+  {
+    "SL.No.": 63,
+    "CITY 1": "COLOMBO",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 17123,
+    "PASSENGERS\n FROM CITY 2": 13595,
+    "FREIGHT\n TO CITY 2": 19.242,
+    "FREIGHT\n FROM CITY 2": 296.223
+  },
+  {
+    "SL.No.": 64,
+    "CITY 1": "COPENHAGEN",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 9865,
+    "PASSENGERS\n FROM CITY 2": 10950,
+    "FREIGHT\n TO CITY 2": 220.778,
+    "FREIGHT\n FROM CITY 2": 496.0348
+  },
+  {
+    "SL.No.": 65,
+    "CITY 1": "DAMMAM",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 13027,
+    "PASSENGERS\n FROM CITY 2": 13192,
+    "FREIGHT\n TO CITY 2": 2.678,
+    "FREIGHT\n FROM CITY 2": 91.2656
+  },
+  {
+    "SL.No.": 66,
+    "CITY 1": "DAMMAM",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 2788,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 67,
+    "CITY 1": "DAMMAM",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 7872,
+    "PASSENGERS\n FROM CITY 2": 6883,
+    "FREIGHT\n TO CITY 2": 14.179,
+    "FREIGHT\n FROM CITY 2": 80.173
+  },
+  {
+    "SL.No.": 68,
+    "CITY 1": "DAMMAM",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 6809,
+    "PASSENGERS\n FROM CITY 2": 6156,
+    "FREIGHT\n TO CITY 2": 7.752,
+    "FREIGHT\n FROM CITY 2": 90.759
+  },
+  {
+    "SL.No.": 69,
+    "CITY 1": "DAMMAM",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 2354,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 70,
+    "CITY 1": "DHAKA",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 2305,
+    "PASSENGERS\n FROM CITY 2": 2163,
+    "FREIGHT\n TO CITY 2": 11.056,
+    "FREIGHT\n FROM CITY 2": 39.05
+  },
+  {
+    "SL.No.": 71,
+    "CITY 1": "DHAKA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 3004,
+    "PASSENGERS\n FROM CITY 2": 2816,
+    "FREIGHT\n TO CITY 2": 1.454,
+    "FREIGHT\n FROM CITY 2": 7.244
+  },
+  {
+    "SL.No.": 72,
+    "CITY 1": "DHAKA",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 93670,
+    "PASSENGERS\n FROM CITY 2": 98942,
+    "FREIGHT\n TO CITY 2": 93.95204,
+    "FREIGHT\n FROM CITY 2": 1830.83365
+  },
+  {
+    "SL.No.": 73,
+    "CITY 1": "DOHA",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 17240,
+    "PASSENGERS\n FROM CITY 2": 20456,
+    "FREIGHT\n TO CITY 2": 1067.535,
+    "FREIGHT\n FROM CITY 2": 1626.406
+  },
+  {
+    "SL.No.": 74,
+    "CITY 1": "DOHA",
+    "CITY 2": "AMRITSAR",
+    "PASSENGERS\n TO CITY 2": 13252,
+    "PASSENGERS\n FROM CITY 2": 15223,
+    "FREIGHT\n TO CITY 2": 5.383,
+    "FREIGHT\n FROM CITY 2": 150.151
+  },
+  {
+    "SL.No.": 75,
+    "CITY 1": "DOHA",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 28103,
+    "PASSENGERS\n FROM CITY 2": 28978,
+    "FREIGHT\n TO CITY 2": 2529.166,
+    "FREIGHT\n FROM CITY 2": 4600.759
+  },
+  {
+    "SL.No.": 76,
+    "CITY 1": "DOHA",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 39975,
+    "PASSENGERS\n FROM CITY 2": 39780,
+    "FREIGHT\n TO CITY 2": 4819.594,
+    "FREIGHT\n FROM CITY 2": 5576.365
+  },
+  {
+    "SL.No.": 77,
+    "CITY 1": "DOHA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 61528,
+    "PASSENGERS\n FROM CITY 2": 59588,
+    "FREIGHT\n TO CITY 2": 2740.616,
+    "FREIGHT\n FROM CITY 2": 5720.601
+  },
+  {
+    "SL.No.": 78,
+    "CITY 1": "DOHA",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 14109,
+    "PASSENGERS\n FROM CITY 2": 15472,
+    "FREIGHT\n TO CITY 2": 3.014,
+    "FREIGHT\n FROM CITY 2": 73.627
+  },
+  {
+    "SL.No.": 79,
+    "CITY 1": "DOHA",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 34360,
+    "PASSENGERS\n FROM CITY 2": 33143,
+    "FREIGHT\n TO CITY 2": 1270.651,
+    "FREIGHT\n FROM CITY 2": 2818.884
+  },
+  {
+    "SL.No.": 80,
+    "CITY 1": "DOHA",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 69649,
+    "PASSENGERS\n FROM CITY 2": 65218,
+    "FREIGHT\n TO CITY 2": 327.748,
+    "FREIGHT\n FROM CITY 2": 2618.801
+  },
+  {
+    "SL.No.": 81,
+    "CITY 1": "DOHA",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 17549,
+    "PASSENGERS\n FROM CITY 2": 19437,
+    "FREIGHT\n TO CITY 2": 1153.697,
+    "FREIGHT\n FROM CITY 2": 1552.459
+  },
+  {
+    "SL.No.": 82,
+    "CITY 1": "DOHA",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 39063,
+    "PASSENGERS\n FROM CITY 2": 34520,
+    "FREIGHT\n TO CITY 2": 6.937,
+    "FREIGHT\n FROM CITY 2": 864.775
+  },
+  {
+    "SL.No.": 83,
+    "CITY 1": "DOHA",
+    "CITY 2": "MADURAI",
+    "PASSENGERS\n TO CITY 2": 2346,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 84,
+    "CITY 1": "DOHA",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 4681,
+    "PASSENGERS\n FROM CITY 2": 4876,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 136.131
+  },
+  {
+    "SL.No.": 85,
+    "CITY 1": "DOHA",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 53514,
+    "PASSENGERS\n FROM CITY 2": 52494,
+    "FREIGHT\n TO CITY 2": 6465.627,
+    "FREIGHT\n FROM CITY 2": 7935.659
+  },
+  {
+    "SL.No.": 86,
+    "CITY 1": "DOHA",
+    "CITY 2": "NAGPUR",
+    "PASSENGERS\n TO CITY 2": 8011,
+    "PASSENGERS\n FROM CITY 2": 10844,
+    "FREIGHT\n TO CITY 2": 1.094,
+    "FREIGHT\n FROM CITY 2": 63.26
+  },
+  {
+    "SL.No.": 87,
+    "CITY 1": "DOHA",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 24034,
+    "PASSENGERS\n FROM CITY 2": 23376,
+    "FREIGHT\n TO CITY 2": 3.748,
+    "FREIGHT\n FROM CITY 2": 223.17
+  },
+  {
+    "SL.No.": 88,
+    "CITY 1": "DOHA",
+    "CITY 2": "KANNUR",
+    "PASSENGERS\n TO CITY 2": 23007,
+    "PASSENGERS\n FROM CITY 2": 22230,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 89,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 2651,
+    "PASSENGERS\n FROM CITY 2": 2503,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 90,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 12976,
+    "PASSENGERS\n FROM CITY 2": 12625,
+    "FREIGHT\n TO CITY 2": 181.533,
+    "FREIGHT\n FROM CITY 2": 77.965
+  },
+  {
+    "SL.No.": 91,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "BHUBANESWAR",
+    "PASSENGERS\n TO CITY 2": 4396,
+    "PASSENGERS\n FROM CITY 2": 4375,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 92,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 14489,
+    "PASSENGERS\n FROM CITY 2": 13583,
+    "FREIGHT\n TO CITY 2": 183.327,
+    "FREIGHT\n FROM CITY 2": 128.026
+  },
+  {
+    "SL.No.": 93,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "JAIPUR",
+    "PASSENGERS\n TO CITY 2": 9832,
+    "PASSENGERS\n FROM CITY 2": 9740,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 94,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 23604,
+    "PASSENGERS\n FROM CITY 2": 23864,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 95,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 13504,
+    "PASSENGERS\n FROM CITY 2": 12144,
+    "FREIGHT\n TO CITY 2": 163.051,
+    "FREIGHT\n FROM CITY 2": 144.912
+  },
+  {
+    "SL.No.": 96,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 11823,
+    "PASSENGERS\n FROM CITY 2": 11055,
+    "FREIGHT\n TO CITY 2": 74.918,
+    "FREIGHT\n FROM CITY 2": 88.71
+  },
+  {
+    "SL.No.": 97,
+    "CITY 1": "DON MUEANG",
+    "CITY 2": "VISAKHAPATNAM",
+    "PASSENGERS\n TO CITY 2": 6517,
+    "PASSENGERS\n FROM CITY 2": 6078,
+    "FREIGHT\n TO CITY 2": 40.655,
+    "FREIGHT\n FROM CITY 2": 31.238
+  },
+  {
+    "SL.No.": 98,
+    "CITY 1": "DUBAI",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 64893,
+    "PASSENGERS\n FROM CITY 2": 69064,
+    "FREIGHT\n TO CITY 2": 570.529,
+    "FREIGHT\n FROM CITY 2": 1939.17316
+  },
+  {
+    "SL.No.": 99,
+    "CITY 1": "DUBAI",
+    "CITY 2": "AMRITSAR",
+    "PASSENGERS\n TO CITY 2": 42446,
+    "PASSENGERS\n FROM CITY 2": 44938,
+    "FREIGHT\n TO CITY 2": 9.08,
+    "FREIGHT\n FROM CITY 2": 189.10907
+  },
+  {
+    "SL.No.": 100,
+    "CITY 1": "DUBAI",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 110013,
+    "PASSENGERS\n FROM CITY 2": 109501,
+    "FREIGHT\n TO CITY 2": 3696.096,
+    "FREIGHT\n FROM CITY 2": 7107.4284
+  },
+  {
+    "SL.No.": 101,
+    "CITY 1": "DUBAI",
+    "CITY 2": "CHANDIGARH",
+    "PASSENGERS\n TO CITY 2": 11488,
+    "PASSENGERS\n FROM CITY 2": 12160,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 14.978
+  },
+  {
+    "SL.No.": 102,
+    "CITY 1": "DUBAI",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 124243,
+    "PASSENGERS\n FROM CITY 2": 130395,
+    "FREIGHT\n TO CITY 2": 3282.825,
+    "FREIGHT\n FROM CITY 2": 5311.2445
+  },
+  {
+    "SL.No.": 103,
+    "CITY 1": "DUBAI",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 230928,
+    "PASSENGERS\n FROM CITY 2": 229187,
+    "FREIGHT\n TO CITY 2": 3329.8263,
+    "FREIGHT\n FROM CITY 2": 10544.9519
+  },
+  {
+    "SL.No.": 104,
+    "CITY 1": "DUBAI",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 3628,
+    "PASSENGERS\n FROM CITY 2": 3113,
+    "FREIGHT\n TO CITY 2": 0.758,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 105,
+    "CITY 1": "DUBAI",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 125980,
+    "PASSENGERS\n FROM CITY 2": 126712,
+    "FREIGHT\n TO CITY 2": 622.844,
+    "FREIGHT\n FROM CITY 2": 4262.629
+  },
+  {
+    "SL.No.": 106,
+    "CITY 1": "DUBAI",
+    "CITY 2": "JAIPUR",
+    "PASSENGERS\n TO CITY 2": 20693,
+    "PASSENGERS\n FROM CITY 2": 20371,
+    "FREIGHT\n TO CITY 2": 2.35186,
+    "FREIGHT\n FROM CITY 2": 54.74641
+  },
+  {
+    "SL.No.": 107,
+    "CITY 1": "DUBAI",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 130411,
+    "PASSENGERS\n FROM CITY 2": 118060,
+    "FREIGHT\n TO CITY 2": 910.317,
+    "FREIGHT\n FROM CITY 2": 4049.49566
+  },
+  {
+    "SL.No.": 108,
+    "CITY 1": "DUBAI",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 46746,
+    "PASSENGERS\n FROM CITY 2": 46546,
+    "FREIGHT\n TO CITY 2": 718.363,
+    "FREIGHT\n FROM CITY 2": 2555.264
+  },
+  {
+    "SL.No.": 109,
+    "CITY 1": "DUBAI",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 85705,
+    "PASSENGERS\n FROM CITY 2": 76735,
+    "FREIGHT\n TO CITY 2": 88.306,
+    "FREIGHT\n FROM CITY 2": 1149.089
+  },
+  {
+    "SL.No.": 110,
+    "CITY 1": "DUBAI",
+    "CITY 2": "LUCKNOW",
+    "PASSENGERS\n TO CITY 2": 22742,
+    "PASSENGERS\n FROM CITY 2": 22004,
+    "FREIGHT\n TO CITY 2": 2.169,
+    "FREIGHT\n FROM CITY 2": 55.46
+  },
+  {
+    "SL.No.": 111,
+    "CITY 1": "DUBAI",
+    "CITY 2": "MADURAI",
+    "PASSENGERS\n TO CITY 2": 16362,
+    "PASSENGERS\n FROM CITY 2": 15169,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 5.234
+  },
+  {
+    "SL.No.": 112,
+    "CITY 1": "DUBAI",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 33950,
+    "PASSENGERS\n FROM CITY 2": 31207,
+    "FREIGHT\n TO CITY 2": 1.081,
+    "FREIGHT\n FROM CITY 2": 241.728
+  },
+  {
+    "SL.No.": 113,
+    "CITY 1": "DUBAI",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 253810,
+    "PASSENGERS\n FROM CITY 2": 249146,
+    "FREIGHT\n TO CITY 2": 5488.1374,
+    "FREIGHT\n FROM CITY 2": 11749.66444
+  },
+  {
+    "SL.No.": 114,
+    "CITY 1": "DUBAI",
+    "CITY 2": "PUNE",
+    "PASSENGERS\n TO CITY 2": 20365,
+    "PASSENGERS\n FROM CITY 2": 20832,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 10.24765
+  },
+  {
+    "SL.No.": 115,
+    "CITY 1": "DUBAI",
+    "CITY 2": "TIRUCHIRAPALLY",
+    "PASSENGERS\n TO CITY 2": 15111,
+    "PASSENGERS\n FROM CITY 2": 12918,
+    "FREIGHT\n TO CITY 2": 1.156,
+    "FREIGHT\n FROM CITY 2": 168.317
+  },
+  {
+    "SL.No.": 116,
+    "CITY 1": "DUBAI",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 70926,
+    "PASSENGERS\n FROM CITY 2": 64896,
+    "FREIGHT\n TO CITY 2": 76.557,
+    "FREIGHT\n FROM CITY 2": 2726.107
+  },
+  {
+    "SL.No.": 117,
+    "CITY 1": "DUBAI",
+    "CITY 2": "VISAKHAPATNAM",
+    "PASSENGERS\n TO CITY 2": 2173,
+    "PASSENGERS\n FROM CITY 2": 1434,
+    "FREIGHT\n TO CITY 2": 0.044,
+    "FREIGHT\n FROM CITY 2": 21.2265
+  },
+  {
+    "SL.No.": 118,
+    "CITY 1": "FRANKFURT",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 31180,
+    "PASSENGERS\n FROM CITY 2": 28729,
+    "FREIGHT\n TO CITY 2": 2137.42,
+    "FREIGHT\n FROM CITY 2": 2490.414
+  },
+  {
+    "SL.No.": 119,
+    "CITY 1": "FRANKFURT",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 22211,
+    "PASSENGERS\n FROM CITY 2": 25364,
+    "FREIGHT\n TO CITY 2": 3331.295,
+    "FREIGHT\n FROM CITY 2": 2302.325
+  },
+  {
+    "SL.No.": 120,
+    "CITY 1": "FRANKFURT",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 55989,
+    "PASSENGERS\n FROM CITY 2": 63526,
+    "FREIGHT\n TO CITY 2": 810.8725,
+    "FREIGHT\n FROM CITY 2": 1886.6424
+  },
+  {
+    "SL.No.": 121,
+    "CITY 1": "FRANKFURT",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 346.541,
+    "FREIGHT\n FROM CITY 2": 1666.137
+  },
+  {
+    "SL.No.": 122,
+    "CITY 1": "FRANKFURT",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 38798,
+    "PASSENGERS\n FROM CITY 2": 42956,
+    "FREIGHT\n TO CITY 2": 6102.8126,
+    "FREIGHT\n FROM CITY 2": 6314.0303
+  },
+  {
+    "SL.No.": 123,
+    "CITY 1": "GUANGZHOU",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 43531,
+    "PASSENGERS\n FROM CITY 2": 52088,
+    "FREIGHT\n TO CITY 2": 3483.135,
+    "FREIGHT\n FROM CITY 2": 1059.346
+  },
+  {
+    "SL.No.": 124,
+    "CITY 1": "GUANGZHOU",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 543,
+    "PASSENGERS\n FROM CITY 2": 458,
+    "FREIGHT\n TO CITY 2": 289.579,
+    "FREIGHT\n FROM CITY 2": 176.827
+  },
+  {
+    "SL.No.": 125,
+    "CITY 1": "HAA DHAALU ATOLL",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 597,
+    "PASSENGERS\n FROM CITY 2": 638,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 2.791
+  },
+  {
+    "SL.No.": 126,
+    "CITY 1": "HANOI",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 30.684,
+    "FREIGHT\n FROM CITY 2": 20.32286
+  },
+  {
+    "SL.No.": 127,
+    "CITY 1": "HELNSKI",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 11812,
+    "PASSENGERS\n FROM CITY 2": 13295,
+    "FREIGHT\n TO CITY 2": 576.226,
+    "FREIGHT\n FROM CITY 2": 606.47
+  },
+  {
+    "SL.No.": 128,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 36292,
+    "PASSENGERS\n FROM CITY 2": 35532,
+    "FREIGHT\n TO CITY 2": 2295.919,
+    "FREIGHT\n FROM CITY 2": 3269.435
+  },
+  {
+    "SL.No.": 129,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 23078,
+    "PASSENGERS\n FROM CITY 2": 27614,
+    "FREIGHT\n TO CITY 2": 7381.708,
+    "FREIGHT\n FROM CITY 2": 5287.872
+  },
+  {
+    "SL.No.": 130,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 68449,
+    "PASSENGERS\n FROM CITY 2": 85692,
+    "FREIGHT\n TO CITY 2": 12098.3154,
+    "FREIGHT\n FROM CITY 2": 4441.06977
+  },
+  {
+    "SL.No.": 131,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 11807,
+    "PASSENGERS\n FROM CITY 2": 13357,
+    "FREIGHT\n TO CITY 2": 463.149,
+    "FREIGHT\n FROM CITY 2": 1281.252
+  },
+  {
+    "SL.No.": 132,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 8409,
+    "PASSENGERS\n FROM CITY 2": 10202,
+    "FREIGHT\n TO CITY 2": 2416.26796,
+    "FREIGHT\n FROM CITY 2": 566.809
+  },
+  {
+    "SL.No.": 133,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 46719,
+    "PASSENGERS\n FROM CITY 2": 50088,
+    "FREIGHT\n TO CITY 2": 4038.908,
+    "FREIGHT\n FROM CITY 2": 5389.1544
+  },
+  {
+    "SL.No.": 134,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "GUWAHATI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 16.673
+  },
+  {
+    "SL.No.": 135,
+    "CITY 1": "ISTANBUL",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 40305,
+    "PASSENGERS\n FROM CITY 2": 48342,
+    "FREIGHT\n TO CITY 2": 2053.689,
+    "FREIGHT\n FROM CITY 2": 2939.677
+  },
+  {
+    "SL.No.": 136,
+    "CITY 1": "ISTANBUL",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 31295,
+    "PASSENGERS\n FROM CITY 2": 33226,
+    "FREIGHT\n TO CITY 2": 2923.932,
+    "FREIGHT\n FROM CITY 2": 4080.62
+  },
+  {
+    "SL.No.": 137,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 11609,
+    "PASSENGERS\n FROM CITY 2": 8945,
+    "FREIGHT\n TO CITY 2": 86.14,
+    "FREIGHT\n FROM CITY 2": 474.289
+  },
+  {
+    "SL.No.": 138,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 7791,
+    "PASSENGERS\n FROM CITY 2": 6450,
+    "FREIGHT\n TO CITY 2": 107.588,
+    "FREIGHT\n FROM CITY 2": 353.022
+  },
+  {
+    "SL.No.": 139,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 37431,
+    "PASSENGERS\n FROM CITY 2": 35281,
+    "FREIGHT\n TO CITY 2": 193.5295,
+    "FREIGHT\n FROM CITY 2": 1741.0914
+  },
+  {
+    "SL.No.": 140,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 42472,
+    "PASSENGERS\n FROM CITY 2": 35283,
+    "FREIGHT\n TO CITY 2": 64.798,
+    "FREIGHT\n FROM CITY 2": 567.33336
+  },
+  {
+    "SL.No.": 141,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 32652,
+    "PASSENGERS\n FROM CITY 2": 23663,
+    "FREIGHT\n TO CITY 2": 157.903,
+    "FREIGHT\n FROM CITY 2": 665.246
+  },
+  {
+    "SL.No.": 142,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 31286,
+    "PASSENGERS\n FROM CITY 2": 29554,
+    "FREIGHT\n TO CITY 2": 767.64,
+    "FREIGHT\n FROM CITY 2": 345.345
+  },
+  {
+    "SL.No.": 143,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "LUCKNOW",
+    "PASSENGERS\n TO CITY 2": 12972,
+    "PASSENGERS\n FROM CITY 2": 15466,
+    "FREIGHT\n TO CITY 2": 301.841,
+    "FREIGHT\n FROM CITY 2": 176.489
+  },
+  {
+    "SL.No.": 144,
+    "CITY 1": "JEDDAH",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 42814,
+    "PASSENGERS\n FROM CITY 2": 39572,
+    "FREIGHT\n TO CITY 2": 159.714,
+    "FREIGHT\n FROM CITY 2": 1469.3949
+  },
+  {
+    "SL.No.": 145,
+    "CITY 1": "KABUL",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 13509,
+    "PASSENGERS\n FROM CITY 2": 23420,
+    "FREIGHT\n TO CITY 2": 58.01819,
+    "FREIGHT\n FROM CITY 2": 956.348
+  },
+  {
+    "SL.No.": 146,
+    "CITY 1": "KANDAHAR",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 468,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 147,
+    "CITY 1": "KATHMANDU",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 87223,
+    "PASSENGERS\n FROM CITY 2": 84192,
+    "FREIGHT\n TO CITY 2": 61.195,
+    "FREIGHT\n FROM CITY 2": 401.1295
+  },
+  {
+    "SL.No.": 148,
+    "CITY 1": "KATHMANDU",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 6759,
+    "PASSENGERS\n FROM CITY 2": 6764,
+    "FREIGHT\n TO CITY 2": 1.392,
+    "FREIGHT\n FROM CITY 2": 1.2027
+  },
+  {
+    "SL.No.": 149,
+    "CITY 1": "KATHMANDU",
+    "CITY 2": "VARANASI",
+    "PASSENGERS\n TO CITY 2": 889,
+    "PASSENGERS\n FROM CITY 2": 907,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 150,
+    "CITY 1": "KIGALI",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 4122,
+    "PASSENGERS\n FROM CITY 2": 5738,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 151,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 1495,
+    "PASSENGERS\n FROM CITY 2": 1247,
+    "FREIGHT\n TO CITY 2": 0.194,
+    "FREIGHT\n FROM CITY 2": 22.947
+  },
+  {
+    "SL.No.": 152,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "AMRITSAR",
+    "PASSENGERS\n TO CITY 2": 5997,
+    "PASSENGERS\n FROM CITY 2": 7719,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 153,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 50200,
+    "PASSENGERS\n FROM CITY 2": 48763,
+    "FREIGHT\n TO CITY 2": 543.243,
+    "FREIGHT\n FROM CITY 2": 643.565
+  },
+  {
+    "SL.No.": 154,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "BHUBANESWAR",
+    "PASSENGERS\n TO CITY 2": 4393,
+    "PASSENGERS\n FROM CITY 2": 4464,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 155,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 67056,
+    "PASSENGERS\n FROM CITY 2": 68022,
+    "FREIGHT\n TO CITY 2": 877.534,
+    "FREIGHT\n FROM CITY 2": 1154.9
+  },
+  {
+    "SL.No.": 156,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 71195,
+    "PASSENGERS\n FROM CITY 2": 76358,
+    "FREIGHT\n TO CITY 2": 1426.534,
+    "FREIGHT\n FROM CITY 2": 2073.229
+  },
+  {
+    "SL.No.": 157,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 28751,
+    "PASSENGERS\n FROM CITY 2": 27796,
+    "FREIGHT\n TO CITY 2": 186.737,
+    "FREIGHT\n FROM CITY 2": 286.339
+  },
+  {
+    "SL.No.": 158,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 56273,
+    "PASSENGERS\n FROM CITY 2": 51471,
+    "FREIGHT\n TO CITY 2": 35.361,
+    "FREIGHT\n FROM CITY 2": 171.727
+  },
+  {
+    "SL.No.": 159,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 20932,
+    "PASSENGERS\n FROM CITY 2": 20452,
+    "FREIGHT\n TO CITY 2": 33.129,
+    "FREIGHT\n FROM CITY 2": 180.641
+  },
+  {
+    "SL.No.": 160,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 40843,
+    "PASSENGERS\n FROM CITY 2": 42120,
+    "FREIGHT\n TO CITY 2": 952.125,
+    "FREIGHT\n FROM CITY 2": 1461.798
+  },
+  {
+    "SL.No.": 161,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "TIRUCHIRAPALLY",
+    "PASSENGERS\n TO CITY 2": 70425,
+    "PASSENGERS\n FROM CITY 2": 63372,
+    "FREIGHT\n TO CITY 2": 0.764,
+    "FREIGHT\n FROM CITY 2": 468.584
+  },
+  {
+    "SL.No.": 162,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 5315,
+    "PASSENGERS\n FROM CITY 2": 4162,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 163,
+    "CITY 1": "KUALALUMPUR",
+    "CITY 2": "VISAKHAPATNAM",
+    "PASSENGERS\n TO CITY 2": 7419,
+    "PASSENGERS\n FROM CITY 2": 7474,
+    "FREIGHT\n TO CITY 2": 80.205,
+    "FREIGHT\n FROM CITY 2": 77.865
+  },
+  {
+    "SL.No.": 164,
+    "CITY 1": "KUNMING",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 4924,
+    "PASSENGERS\n FROM CITY 2": 6537,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 165,
+    "CITY 1": "KUNMING",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 9570,
+    "PASSENGERS\n FROM CITY 2": 11058,
+    "FREIGHT\n TO CITY 2": 133.219,
+    "FREIGHT\n FROM CITY 2": 7.622
+  },
+  {
+    "SL.No.": 166,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 15783,
+    "PASSENGERS\n FROM CITY 2": 19331,
+    "FREIGHT\n TO CITY 2": 1.091,
+    "FREIGHT\n FROM CITY 2": 133.6846
+  },
+  {
+    "SL.No.": 167,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 4588,
+    "PASSENGERS\n FROM CITY 2": 4660,
+    "FREIGHT\n TO CITY 2": 5.866,
+    "FREIGHT\n FROM CITY 2": 3.404
+  },
+  {
+    "SL.No.": 168,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 34812,
+    "PASSENGERS\n FROM CITY 2": 30858,
+    "FREIGHT\n TO CITY 2": 421.59,
+    "FREIGHT\n FROM CITY 2": 1296.0058
+  },
+  {
+    "SL.No.": 169,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 23413,
+    "PASSENGERS\n FROM CITY 2": 23461,
+    "FREIGHT\n TO CITY 2": 285.56,
+    "FREIGHT\n FROM CITY 2": 887.527
+  },
+  {
+    "SL.No.": 170,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 2199,
+    "PASSENGERS\n FROM CITY 2": 2845,
+    "FREIGHT\n TO CITY 2": 0.256,
+    "FREIGHT\n FROM CITY 2": 5.8317
+  },
+  {
+    "SL.No.": 171,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 1680,
+    "PASSENGERS\n FROM CITY 2": 1749,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 2.502
+  },
+  {
+    "SL.No.": 172,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 34043,
+    "PASSENGERS\n FROM CITY 2": 30335,
+    "FREIGHT\n TO CITY 2": 282.817,
+    "FREIGHT\n FROM CITY 2": 1129.791
+  },
+  {
+    "SL.No.": 173,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 6508,
+    "PASSENGERS\n FROM CITY 2": 6362,
+    "FREIGHT\n TO CITY 2": 28.372,
+    "FREIGHT\n FROM CITY 2": 170.775
+  },
+  {
+    "SL.No.": 174,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 3430,
+    "PASSENGERS\n FROM CITY 2": 3028,
+    "FREIGHT\n TO CITY 2": 0.361,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 175,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 23530,
+    "PASSENGERS\n FROM CITY 2": 23252,
+    "FREIGHT\n TO CITY 2": 100.366,
+    "FREIGHT\n FROM CITY 2": 1138.88
+  },
+  {
+    "SL.No.": 176,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 11205,
+    "PASSENGERS\n FROM CITY 2": 8190,
+    "FREIGHT\n TO CITY 2": 3.79,
+    "FREIGHT\n FROM CITY 2": 171.98
+  },
+  {
+    "SL.No.": 177,
+    "CITY 1": "KUWAIT",
+    "CITY 2": "KANNUR",
+    "PASSENGERS\n TO CITY 2": 13451,
+    "PASSENGERS\n FROM CITY 2": 11115,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 178,
+    "CITY 1": "LEIPZIG",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 1.906,
+    "FREIGHT\n FROM CITY 2": 1946.894
+  },
+  {
+    "SL.No.": 179,
+    "CITY 1": "LEIPZIG",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 1523.399,
+    "FREIGHT\n FROM CITY 2": 4159.219
+  },
+  {
+    "SL.No.": 180,
+    "CITY 1": "LONDON",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 10875,
+    "PASSENGERS\n FROM CITY 2": 12468,
+    "FREIGHT\n TO CITY 2": 208.5001,
+    "FREIGHT\n FROM CITY 2": 419.9367
+  },
+  {
+    "SL.No.": 181,
+    "CITY 1": "LONDON",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 28681,
+    "PASSENGERS\n FROM CITY 2": 31415,
+    "FREIGHT\n TO CITY 2": 873.9161,
+    "FREIGHT\n FROM CITY 2": 1646.084
+  },
+  {
+    "SL.No.": 182,
+    "CITY 1": "LONDON",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 15179,
+    "PASSENGERS\n FROM CITY 2": 18049,
+    "FREIGHT\n TO CITY 2": 616.41,
+    "FREIGHT\n FROM CITY 2": 1024.55
+  },
+  {
+    "SL.No.": 183,
+    "CITY 1": "LONDON",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 92402,
+    "PASSENGERS\n FROM CITY 2": 112043,
+    "FREIGHT\n TO CITY 2": 3549.6533,
+    "FREIGHT\n FROM CITY 2": 6244.7904
+  },
+  {
+    "SL.No.": 184,
+    "CITY 1": "LONDON",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 834,
+    "PASSENGERS\n FROM CITY 2": 1214,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 185,
+    "CITY 1": "LONDON",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 16059,
+    "PASSENGERS\n FROM CITY 2": 18502,
+    "FREIGHT\n TO CITY 2": 511.41,
+    "FREIGHT\n FROM CITY 2": 965.28
+  },
+  {
+    "SL.No.": 186,
+    "CITY 1": "LONDON",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 64059,
+    "PASSENGERS\n FROM CITY 2": 71816,
+    "FREIGHT\n TO CITY 2": 2923.788,
+    "FREIGHT\n FROM CITY 2": 5267.8294
+  },
+  {
+    "SL.No.": 187,
+    "CITY 1": "LUXEMBOURG",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 764.139
+  },
+  {
+    "SL.No.": 188,
+    "CITY 1": "MADRID",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 4448,
+    "PASSENGERS\n FROM CITY 2": 6753,
+    "FREIGHT\n TO CITY 2": 69.6465,
+    "FREIGHT\n FROM CITY 2": 252.1718
+  },
+  {
+    "SL.No.": 189,
+    "CITY 1": "MALE",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 16547,
+    "PASSENGERS\n FROM CITY 2": 14274,
+    "FREIGHT\n TO CITY 2": 0.645,
+    "FREIGHT\n FROM CITY 2": 330.3065
+  },
+  {
+    "SL.No.": 190,
+    "CITY 1": "MALE",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 1122,
+    "PASSENGERS\n FROM CITY 2": 1247,
+    "FREIGHT\n TO CITY 2": 3.186,
+    "FREIGHT\n FROM CITY 2": 66.922
+  },
+  {
+    "SL.No.": 191,
+    "CITY 1": "MALE",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 7566,
+    "PASSENGERS\n FROM CITY 2": 9218,
+    "FREIGHT\n TO CITY 2": 0.6598,
+    "FREIGHT\n FROM CITY 2": 26.9117
+  },
+  {
+    "SL.No.": 192,
+    "CITY 1": "MALE",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 16550,
+    "PASSENGERS\n FROM CITY 2": 17909,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 120.087
+  },
+  {
+    "SL.No.": 193,
+    "CITY 1": "MALE",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 13217,
+    "PASSENGERS\n FROM CITY 2": 13152,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 25.412
+  },
+  {
+    "SL.No.": 194,
+    "CITY 1": "MALE",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 9896,
+    "PASSENGERS\n FROM CITY 2": 9860,
+    "FREIGHT\n TO CITY 2": 0.679,
+    "FREIGHT\n FROM CITY 2": 385.457
+  },
+  {
+    "SL.No.": 195,
+    "CITY 1": "MALE",
+    "CITY 2": "DHAKA",
+    "PASSENGERS\n TO CITY 2": 1015,
+    "PASSENGERS\n FROM CITY 2": 906,
+    "FREIGHT\n TO CITY 2": 0.3,
+    "FREIGHT\n FROM CITY 2": 20.456
+  },
+  {
+    "SL.No.": 196,
+    "CITY 1": "MALPENSA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 11415,
+    "PASSENGERS\n FROM CITY 2": 11860,
+    "FREIGHT\n TO CITY 2": 453.3992,
+    "FREIGHT\n FROM CITY 2": 455.5861
+  },
+  {
+    "SL.No.": 197,
+    "CITY 1": "MALPENSA",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 297.158,
+    "FREIGHT\n FROM CITY 2": 1112.087
+  },
+  {
+    "SL.No.": 198,
+    "CITY 1": "MANCHESTER",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 1797,
+    "PASSENGERS\n FROM CITY 2": 2824,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 199,
+    "CITY 1": "MARUITIUS",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 2991,
+    "PASSENGERS\n FROM CITY 2": 2572,
+    "FREIGHT\n TO CITY 2": 11.288,
+    "FREIGHT\n FROM CITY 2": 104.374
+  },
+  {
+    "SL.No.": 200,
+    "CITY 1": "MARUITIUS",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 2396,
+    "PASSENGERS\n FROM CITY 2": 3409,
+    "FREIGHT\n TO CITY 2": 5.445,
+    "FREIGHT\n FROM CITY 2": 152.544
+  },
+  {
+    "SL.No.": 201,
+    "CITY 1": "MARUITIUS",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 7606,
+    "PASSENGERS\n FROM CITY 2": 8327,
+    "FREIGHT\n TO CITY 2": 11.936,
+    "FREIGHT\n FROM CITY 2": 294.383
+  },
+  {
+    "SL.No.": 202,
+    "CITY 1": "MARUITIUS",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 13820,
+    "PASSENGERS\n FROM CITY 2": 16976,
+    "FREIGHT\n TO CITY 2": 21.76,
+    "FREIGHT\n FROM CITY 2": 739.669
+  },
+  {
+    "SL.No.": 203,
+    "CITY 1": "MEDINA",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 536,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 204,
+    "CITY 1": "MEDINA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 6619,
+    "PASSENGERS\n FROM CITY 2": 4254,
+    "FREIGHT\n TO CITY 2": 8.174,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 205,
+    "CITY 1": "MEDINA",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 1212,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 206,
+    "CITY 1": "MEDINA",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 4659,
+    "PASSENGERS\n FROM CITY 2": 2745,
+    "FREIGHT\n TO CITY 2": 0.495,
+    "FREIGHT\n FROM CITY 2": 3.303
+  },
+  {
+    "SL.No.": 207,
+    "CITY 1": "MELBOURNE",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 7932,
+    "PASSENGERS\n FROM CITY 2": 8985,
+    "FREIGHT\n TO CITY 2": 125.1983,
+    "FREIGHT\n FROM CITY 2": 104.2174
+  },
+  {
+    "SL.No.": 208,
+    "CITY 1": "MOSCOW",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 39385,
+    "PASSENGERS\n FROM CITY 2": 48794,
+    "FREIGHT\n TO CITY 2": 145.66,
+    "FREIGHT\n FROM CITY 2": 1166.98
+  },
+  {
+    "SL.No.": 209,
+    "CITY 1": "MOSCOW",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 5469,
+    "PASSENGERS\n FROM CITY 2": 7795,
+    "FREIGHT\n TO CITY 2": 0.811,
+    "FREIGHT\n FROM CITY 2": 0.392
+  },
+  {
+    "SL.No.": 210,
+    "CITY 1": "MUENCHEN",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 22785,
+    "PASSENGERS\n FROM CITY 2": 25433,
+    "FREIGHT\n TO CITY 2": 666.219,
+    "FREIGHT\n FROM CITY 2": 1403.461
+  },
+  {
+    "SL.No.": 211,
+    "CITY 1": "MUENCHEN",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 21474,
+    "PASSENGERS\n FROM CITY 2": 25711,
+    "FREIGHT\n TO CITY 2": 1037.15,
+    "FREIGHT\n FROM CITY 2": 1302.931
+  },
+  {
+    "SL.No.": 212,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 12992,
+    "PASSENGERS\n FROM CITY 2": 13118,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 45.21779
+  },
+  {
+    "SL.No.": 213,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 25945,
+    "PASSENGERS\n FROM CITY 2": 24383,
+    "FREIGHT\n TO CITY 2": 20.112,
+    "FREIGHT\n FROM CITY 2": 444.5008
+  },
+  {
+    "SL.No.": 214,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 39745,
+    "PASSENGERS\n FROM CITY 2": 36087,
+    "FREIGHT\n TO CITY 2": 129.652,
+    "FREIGHT\n FROM CITY 2": 492.353
+  },
+  {
+    "SL.No.": 215,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 42533,
+    "PASSENGERS\n FROM CITY 2": 39230,
+    "FREIGHT\n TO CITY 2": 75.533,
+    "FREIGHT\n FROM CITY 2": 539.9927
+  },
+  {
+    "SL.No.": 216,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 10953,
+    "PASSENGERS\n FROM CITY 2": 10577,
+    "FREIGHT\n TO CITY 2": 25.382,
+    "FREIGHT\n FROM CITY 2": 117.513
+  },
+  {
+    "SL.No.": 217,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 38785,
+    "PASSENGERS\n FROM CITY 2": 34223,
+    "FREIGHT\n TO CITY 2": 17.614,
+    "FREIGHT\n FROM CITY 2": 340.5372
+  },
+  {
+    "SL.No.": 218,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "JAIPUR",
+    "PASSENGERS\n TO CITY 2": 10236,
+    "PASSENGERS\n FROM CITY 2": 11095,
+    "FREIGHT\n TO CITY 2": 36.625,
+    "FREIGHT\n FROM CITY 2": 52.285
+  },
+  {
+    "SL.No.": 219,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 45711,
+    "PASSENGERS\n FROM CITY 2": 39443,
+    "FREIGHT\n TO CITY 2": 51.365,
+    "FREIGHT\n FROM CITY 2": 739.907
+  },
+  {
+    "SL.No.": 220,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 59233,
+    "PASSENGERS\n FROM CITY 2": 48496,
+    "FREIGHT\n TO CITY 2": 173.675,
+    "FREIGHT\n FROM CITY 2": 1018.173
+  },
+  {
+    "SL.No.": 221,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "LUCKNOW",
+    "PASSENGERS\n TO CITY 2": 26560,
+    "PASSENGERS\n FROM CITY 2": 23032,
+    "FREIGHT\n TO CITY 2": 9.4,
+    "FREIGHT\n FROM CITY 2": 212.153
+  },
+  {
+    "SL.No.": 222,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 7070,
+    "PASSENGERS\n FROM CITY 2": 5817,
+    "FREIGHT\n TO CITY 2": 1.324,
+    "FREIGHT\n FROM CITY 2": 28.152
+  },
+  {
+    "SL.No.": 223,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 66130,
+    "PASSENGERS\n FROM CITY 2": 62536,
+    "FREIGHT\n TO CITY 2": 38.837,
+    "FREIGHT\n FROM CITY 2": 1652.4242
+  },
+  {
+    "SL.No.": 224,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 30895,
+    "PASSENGERS\n FROM CITY 2": 27124,
+    "FREIGHT\n TO CITY 2": 8,
+    "FREIGHT\n FROM CITY 2": 466.105
+  },
+  {
+    "SL.No.": 225,
+    "CITY 1": "MUSCAT",
+    "CITY 2": "KANNUR",
+    "PASSENGERS\n TO CITY 2": 17476,
+    "PASSENGERS\n FROM CITY 2": 13629,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 226,
+    "CITY 1": "NAIROBI",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 23537,
+    "PASSENGERS\n FROM CITY 2": 26181,
+    "FREIGHT\n TO CITY 2": 41.089,
+    "FREIGHT\n FROM CITY 2": 141.644
+  },
+  {
+    "SL.No.": 227,
+    "CITY 1": "NAJF",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 252,
+    "PASSENGERS\n FROM CITY 2": 314,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 228,
+    "CITY 1": "NARITA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 19986,
+    "PASSENGERS\n FROM CITY 2": 25871,
+    "FREIGHT\n TO CITY 2": 1510.9243,
+    "FREIGHT\n FROM CITY 2": 1464.205
+  },
+  {
+    "SL.No.": 229,
+    "CITY 1": "NARITA",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 11162,
+    "PASSENGERS\n FROM CITY 2": 12493,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 230,
+    "CITY 1": "NEW YORK",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 22696,
+    "PASSENGERS\n FROM CITY 2": 24529,
+    "FREIGHT\n TO CITY 2": 310.2705,
+    "FREIGHT\n FROM CITY 2": 646.0116
+  },
+  {
+    "SL.No.": 231,
+    "CITY 1": "NEW YORK",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 933,
+    "PASSENGERS\n FROM CITY 2": 2948,
+    "FREIGHT\n TO CITY 2": 73.8716,
+    "FREIGHT\n FROM CITY 2": 0.5611
+  },
+  {
+    "SL.No.": 232,
+    "CITY 1": "NEWARK",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 3051,
+    "PASSENGERS\n FROM CITY 2": 5283,
+    "FREIGHT\n TO CITY 2": 111.2333,
+    "FREIGHT\n FROM CITY 2": 72.5057
+  },
+  {
+    "SL.No.": 233,
+    "CITY 1": "NEWARK",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 43685,
+    "PASSENGERS\n FROM CITY 2": 49081,
+    "FREIGHT\n TO CITY 2": 472.0196,
+    "FREIGHT\n FROM CITY 2": 666.6933
+  },
+  {
+    "SL.No.": 234,
+    "CITY 1": "OSAKA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 1497,
+    "PASSENGERS\n FROM CITY 2": 1871,
+    "FREIGHT\n TO CITY 2": 110.8501,
+    "FREIGHT\n FROM CITY 2": 85.5039
+  },
+  {
+    "SL.No.": 235,
+    "CITY 1": "OSAKA",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 586,
+    "PASSENGERS\n FROM CITY 2": 357,
+    "FREIGHT\n TO CITY 2": 20.0988,
+    "FREIGHT\n FROM CITY 2": 10.3185
+  },
+  {
+    "SL.No.": 236,
+    "CITY 1": "PARIS",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 17536,
+    "PASSENGERS\n FROM CITY 2": 17991,
+    "FREIGHT\n TO CITY 2": 658.139,
+    "FREIGHT\n FROM CITY 2": 1083.587
+  },
+  {
+    "SL.No.": 237,
+    "CITY 1": "PARIS",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 3670,
+    "PASSENGERS\n FROM CITY 2": 3279,
+    "FREIGHT\n TO CITY 2": 27.7109,
+    "FREIGHT\n FROM CITY 2": 51.5965
+  },
+  {
+    "SL.No.": 238,
+    "CITY 1": "PARIS",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 29182,
+    "PASSENGERS\n FROM CITY 2": 30764,
+    "FREIGHT\n TO CITY 2": 1360.8787,
+    "FREIGHT\n FROM CITY 2": 3905.0814
+  },
+  {
+    "SL.No.": 239,
+    "CITY 1": "PARIS",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 22797,
+    "PASSENGERS\n FROM CITY 2": 27090,
+    "FREIGHT\n TO CITY 2": 962.9697,
+    "FREIGHT\n FROM CITY 2": 1992.8968
+  },
+  {
+    "SL.No.": 240,
+    "CITY 1": "PARO",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 7692,
+    "PASSENGERS\n FROM CITY 2": 9599,
+    "FREIGHT\n TO CITY 2": 0.353,
+    "FREIGHT\n FROM CITY 2": 22.134
+  },
+  {
+    "SL.No.": 241,
+    "CITY 1": "PARO",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 14102,
+    "PASSENGERS\n FROM CITY 2": 12172,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 1.212
+  },
+  {
+    "SL.No.": 242,
+    "CITY 1": "PEKING",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 34349,
+    "PASSENGERS\n FROM CITY 2": 39274,
+    "FREIGHT\n TO CITY 2": 1123.781,
+    "FREIGHT\n FROM CITY 2": 1424.502
+  },
+  {
+    "SL.No.": 243,
+    "CITY 1": "PHUKET",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 20377,
+    "PASSENGERS\n FROM CITY 2": 22406,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 244,
+    "CITY 1": "PHUKET",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 24954,
+    "PASSENGERS\n FROM CITY 2": 27602,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 245,
+    "CITY 1": "PHUKET",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 13537,
+    "PASSENGERS\n FROM CITY 2": 15313,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 246,
+    "CITY 1": "RANGOON",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 796,
+    "PASSENGERS\n FROM CITY 2": 788,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0.9712
+  },
+  {
+    "SL.No.": 247,
+    "CITY 1": "RANGOON",
+    "CITY 2": "GAYA",
+    "PASSENGERS\n TO CITY 2": 1081,
+    "PASSENGERS\n FROM CITY 2": 1913,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 248,
+    "CITY 1": "RANGOON",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 3169,
+    "PASSENGERS\n FROM CITY 2": 3032,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 53.1226
+  },
+  {
+    "SL.No.": 249,
+    "CITY 1": "RASALKHAMA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 187.341
+  },
+  {
+    "SL.No.": 250,
+    "CITY 1": "RASALKHAMA",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 194,
+    "PASSENGERS\n FROM CITY 2": 124,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 251,
+    "CITY 1": "RASALKHAMA",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 3717,
+    "PASSENGERS\n FROM CITY 2": 3837,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 252,
+    "CITY 1": "RASALKHAMA",
+    "CITY 2": "NASIK",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 154.814
+  },
+  {
+    "SL.No.": 253,
+    "CITY 1": "REUNION",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 1554,
+    "PASSENGERS\n FROM CITY 2": 1694,
+    "FREIGHT\n TO CITY 2": 0.549,
+    "FREIGHT\n FROM CITY 2": 6.256
+  },
+  {
+    "SL.No.": 254,
+    "CITY 1": "RIYADH",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 2226,
+    "PASSENGERS\n FROM CITY 2": 2043,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 243.38
+  },
+  {
+    "SL.No.": 255,
+    "CITY 1": "RIYADH",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 4520,
+    "PASSENGERS\n FROM CITY 2": 4119,
+    "FREIGHT\n TO CITY 2": 25.124,
+    "FREIGHT\n FROM CITY 2": 225.609
+  },
+  {
+    "SL.No.": 256,
+    "CITY 1": "RIYADH",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 16388,
+    "PASSENGERS\n FROM CITY 2": 18033,
+    "FREIGHT\n TO CITY 2": 51.2005,
+    "FREIGHT\n FROM CITY 2": 674.072
+  },
+  {
+    "SL.No.": 257,
+    "CITY 1": "RIYADH",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 13491,
+    "PASSENGERS\n FROM CITY 2": 14077,
+    "FREIGHT\n TO CITY 2": 50.35,
+    "FREIGHT\n FROM CITY 2": 456.05
+  },
+  {
+    "SL.No.": 258,
+    "CITY 1": "RIYADH",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 13671,
+    "PASSENGERS\n FROM CITY 2": 12941,
+    "FREIGHT\n TO CITY 2": 31.484,
+    "FREIGHT\n FROM CITY 2": 348.619
+  },
+  {
+    "SL.No.": 259,
+    "CITY 1": "RIYADH",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 19286,
+    "PASSENGERS\n FROM CITY 2": 18056,
+    "FREIGHT\n TO CITY 2": 225.308,
+    "FREIGHT\n FROM CITY 2": 373.807
+  },
+  {
+    "SL.No.": 260,
+    "CITY 1": "RIYADH",
+    "CITY 2": "LUCKNOW",
+    "PASSENGERS\n TO CITY 2": 14526,
+    "PASSENGERS\n FROM CITY 2": 10217,
+    "FREIGHT\n TO CITY 2": 40.722,
+    "FREIGHT\n FROM CITY 2": 30.023
+  },
+  {
+    "SL.No.": 261,
+    "CITY 1": "RIYADH",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 23730,
+    "PASSENGERS\n FROM CITY 2": 25241,
+    "FREIGHT\n TO CITY 2": 13.081,
+    "FREIGHT\n FROM CITY 2": 688.9544
+  },
+  {
+    "SL.No.": 262,
+    "CITY 1": "RIYADH",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 3963,
+    "PASSENGERS\n FROM CITY 2": 3305,
+    "FREIGHT\n TO CITY 2": 0.125,
+    "FREIGHT\n FROM CITY 2": 56.365
+  },
+  {
+    "SL.No.": 263,
+    "CITY 1": "RIYADH",
+    "CITY 2": "KANNUR",
+    "PASSENGERS\n TO CITY 2": 4516,
+    "PASSENGERS\n FROM CITY 2": 4044,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 264,
+    "CITY 1": "ROME",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 8480,
+    "PASSENGERS\n FROM CITY 2": 9018,
+    "FREIGHT\n TO CITY 2": 355,
+    "FREIGHT\n FROM CITY 2": 233.2
+  },
+  {
+    "SL.No.": 265,
+    "CITY 1": "SALALAH",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 2329,
+    "PASSENGERS\n FROM CITY 2": 1319,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 266,
+    "CITY 1": "SALALAH",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 1356,
+    "PASSENGERS\n FROM CITY 2": 2141,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0.8
+  },
+  {
+    "SL.No.": 267,
+    "CITY 1": "SALALAH",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 1845,
+    "PASSENGERS\n FROM CITY 2": 1020,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 268,
+    "CITY 1": "SAN FRANCISCO",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 2,
+    "PASSENGERS\n FROM CITY 2": 1371,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 269,
+    "CITY 1": "SAN FRANCISCO",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 21801,
+    "PASSENGERS\n FROM CITY 2": 24458,
+    "FREIGHT\n TO CITY 2": 232.7,
+    "FREIGHT\n FROM CITY 2": 682.5
+  },
+  {
+    "SL.No.": 270,
+    "CITY 1": "SEOUL",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 20847,
+    "PASSENGERS\n FROM CITY 2": 31510,
+    "FREIGHT\n TO CITY 2": 765.3,
+    "FREIGHT\n FROM CITY 2": 764.6
+  },
+  {
+    "SL.No.": 271,
+    "CITY 1": "SEOUL",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 7360,
+    "PASSENGERS\n FROM CITY 2": 8351,
+    "FREIGHT\n TO CITY 2": 167,
+    "FREIGHT\n FROM CITY 2": 246.6
+  },
+  {
+    "SL.No.": 272,
+    "CITY 1": "SEYCHELLES",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 6823,
+    "PASSENGERS\n FROM CITY 2": 8582,
+    "FREIGHT\n TO CITY 2": 0.4,
+    "FREIGHT\n FROM CITY 2": 41.2
+  },
+  {
+    "SL.No.": 273,
+    "CITY 1": "SHANGHAI",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 9032,
+    "PASSENGERS\n FROM CITY 2": 10166,
+    "FREIGHT\n TO CITY 2": 365.8,
+    "FREIGHT\n FROM CITY 2": 85
+  },
+  {
+    "SL.No.": 274,
+    "CITY 1": "SHANGHAI",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 4007,
+    "PASSENGERS\n FROM CITY 2": 3720,
+    "FREIGHT\n TO CITY 2": 620.6,
+    "FREIGHT\n FROM CITY 2": 307.5
+  },
+  {
+    "SL.No.": 275,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 14621,
+    "PASSENGERS\n FROM CITY 2": 13535,
+    "FREIGHT\n TO CITY 2": 9.6,
+    "FREIGHT\n FROM CITY 2": 210.4
+  },
+  {
+    "SL.No.": 276,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 15272,
+    "PASSENGERS\n FROM CITY 2": 14056,
+    "FREIGHT\n TO CITY 2": 58.1,
+    "FREIGHT\n FROM CITY 2": 246.2
+  },
+  {
+    "SL.No.": 277,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "CHANDIGARH",
+    "PASSENGERS\n TO CITY 2": 5958,
+    "PASSENGERS\n FROM CITY 2": 6537,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 278,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 25610,
+    "PASSENGERS\n FROM CITY 2": 18727,
+    "FREIGHT\n TO CITY 2": 48.8,
+    "FREIGHT\n FROM CITY 2": 193.7
+  },
+  {
+    "SL.No.": 279,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "COIMBATORE",
+    "PASSENGERS\n TO CITY 2": 10436,
+    "PASSENGERS\n FROM CITY 2": 10073,
+    "FREIGHT\n TO CITY 2": 3.3,
+    "FREIGHT\n FROM CITY 2": 188.6
+  },
+  {
+    "SL.No.": 280,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 29429,
+    "PASSENGERS\n FROM CITY 2": 29945,
+    "FREIGHT\n TO CITY 2": 63.6,
+    "FREIGHT\n FROM CITY 2": 443.2
+  },
+  {
+    "SL.No.": 281,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "GOA",
+    "PASSENGERS\n TO CITY 2": 11488,
+    "PASSENGERS\n FROM CITY 2": 10623,
+    "FREIGHT\n TO CITY 2": 18.1,
+    "FREIGHT\n FROM CITY 2": 83
+  },
+  {
+    "SL.No.": 282,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 35900,
+    "PASSENGERS\n FROM CITY 2": 31123,
+    "FREIGHT\n TO CITY 2": 7.3,
+    "FREIGHT\n FROM CITY 2": 547.6
+  },
+  {
+    "SL.No.": 283,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "JAIPUR",
+    "PASSENGERS\n TO CITY 2": 14724,
+    "PASSENGERS\n FROM CITY 2": 14710,
+    "FREIGHT\n TO CITY 2": 1,
+    "FREIGHT\n FROM CITY 2": 247.9
+  },
+  {
+    "SL.No.": 284,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 48881,
+    "PASSENGERS\n FROM CITY 2": 47398,
+    "FREIGHT\n TO CITY 2": 116.6,
+    "FREIGHT\n FROM CITY 2": 813.2
+  },
+  {
+    "SL.No.": 285,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "KOZHIKODE",
+    "PASSENGERS\n TO CITY 2": 51463,
+    "PASSENGERS\n FROM CITY 2": 46359,
+    "FREIGHT\n TO CITY 2": 71.2,
+    "FREIGHT\n FROM CITY 2": 946.4
+  },
+  {
+    "SL.No.": 286,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "LUCKNOW",
+    "PASSENGERS\n TO CITY 2": 16482,
+    "PASSENGERS\n FROM CITY 2": 14651,
+    "FREIGHT\n TO CITY 2": 0.1,
+    "FREIGHT\n FROM CITY 2": 136.4
+  },
+  {
+    "SL.No.": 287,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "MADURAI",
+    "PASSENGERS\n TO CITY 2": 52,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 288,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "MANGALORE",
+    "PASSENGERS\n TO CITY 2": 15036,
+    "PASSENGERS\n FROM CITY 2": 14135,
+    "FREIGHT\n TO CITY 2": 0.6,
+    "FREIGHT\n FROM CITY 2": 82.4
+  },
+  {
+    "SL.No.": 289,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 43589,
+    "PASSENGERS\n FROM CITY 2": 51680,
+    "FREIGHT\n TO CITY 2": 94.1,
+    "FREIGHT\n FROM CITY 2": 667.7
+  },
+  {
+    "SL.No.": 290,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "NAGPUR",
+    "PASSENGERS\n TO CITY 2": 8283,
+    "PASSENGERS\n FROM CITY 2": 6962,
+    "FREIGHT\n TO CITY 2": 0.5,
+    "FREIGHT\n FROM CITY 2": 54.4
+  },
+  {
+    "SL.No.": 291,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "TIRUCHIRAPALLY",
+    "PASSENGERS\n TO CITY 2": 15792,
+    "PASSENGERS\n FROM CITY 2": 13460,
+    "FREIGHT\n TO CITY 2": 1.3,
+    "FREIGHT\n FROM CITY 2": 147.3
+  },
+  {
+    "SL.No.": 292,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 67836,
+    "PASSENGERS\n FROM CITY 2": 61110,
+    "FREIGHT\n TO CITY 2": 7.9,
+    "FREIGHT\n FROM CITY 2": 1149.1
+  },
+  {
+    "SL.No.": 293,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "VARANASI",
+    "PASSENGERS\n TO CITY 2": 16888,
+    "PASSENGERS\n FROM CITY 2": 16137,
+    "FREIGHT\n TO CITY 2": 0.5,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 294,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "VISAKHAPATNAM",
+    "PASSENGERS\n TO CITY 2": 1332,
+    "PASSENGERS\n FROM CITY 2": 1547,
+    "FREIGHT\n TO CITY 2": 0.2,
+    "FREIGHT\n FROM CITY 2": 7.5
+  },
+  {
+    "SL.No.": 295,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "KANNUR",
+    "PASSENGERS\n TO CITY 2": 16743,
+    "PASSENGERS\n FROM CITY 2": 16253,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 296,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "SURAT",
+    "PASSENGERS\n TO CITY 2": 5418,
+    "PASSENGERS\n FROM CITY 2": 5866,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 297,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "NASIK",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 328.6
+  },
+  {
+    "SL.No.": 298,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "AHMEDABAD",
+    "PASSENGERS\n TO CITY 2": 15233,
+    "PASSENGERS\n FROM CITY 2": 17513,
+    "FREIGHT\n TO CITY 2": 667.2,
+    "FREIGHT\n FROM CITY 2": 864.8
+  },
+  {
+    "SL.No.": 299,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "AMRITSAR",
+    "PASSENGERS\n TO CITY 2": 12621,
+    "PASSENGERS\n FROM CITY 2": 15670,
+    "FREIGHT\n TO CITY 2": 5.2,
+    "FREIGHT\n FROM CITY 2": 161.4
+  },
+  {
+    "SL.No.": 300,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "BENGALURU",
+    "PASSENGERS\n TO CITY 2": 70587,
+    "PASSENGERS\n FROM CITY 2": 69656,
+    "FREIGHT\n TO CITY 2": 3414.8,
+    "FREIGHT\n FROM CITY 2": 1795.5
+  },
+  {
+    "SL.No.": 301,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "CHENNAI",
+    "PASSENGERS\n TO CITY 2": 111671,
+    "PASSENGERS\n FROM CITY 2": 115140,
+    "FREIGHT\n TO CITY 2": 2391.2,
+    "FREIGHT\n FROM CITY 2": 3388.2
+  },
+  {
+    "SL.No.": 302,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "COIMBATORE",
+    "PASSENGERS\n TO CITY 2": 15533,
+    "PASSENGERS\n FROM CITY 2": 17409,
+    "FREIGHT\n TO CITY 2": 13.4,
+    "FREIGHT\n FROM CITY 2": 272.4
+  },
+  {
+    "SL.No.": 303,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 78949,
+    "PASSENGERS\n FROM CITY 2": 86749,
+    "FREIGHT\n TO CITY 2": 2920.5,
+    "FREIGHT\n FROM CITY 2": 2968.1
+  },
+  {
+    "SL.No.": 304,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "HYDERABAD",
+    "PASSENGERS\n TO CITY 2": 33499,
+    "PASSENGERS\n FROM CITY 2": 33953,
+    "FREIGHT\n TO CITY 2": 102.9,
+    "FREIGHT\n FROM CITY 2": 279.6
+  },
+  {
+    "SL.No.": 305,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "KOCHI",
+    "PASSENGERS\n TO CITY 2": 28698,
+    "PASSENGERS\n FROM CITY 2": 29551,
+    "FREIGHT\n TO CITY 2": 143.3,
+    "FREIGHT\n FROM CITY 2": 235.6
+  },
+  {
+    "SL.No.": 306,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "KOLKATA",
+    "PASSENGERS\n TO CITY 2": 31604,
+    "PASSENGERS\n FROM CITY 2": 32997,
+    "FREIGHT\n TO CITY 2": 465.1,
+    "FREIGHT\n FROM CITY 2": 1033.4
+  },
+  {
+    "SL.No.": 307,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "LUCKNOW",
+    "PASSENGERS\n TO CITY 2": 6384,
+    "PASSENGERS\n FROM CITY 2": 6609,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 308,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "MADURAI",
+    "PASSENGERS\n TO CITY 2": 13120,
+    "PASSENGERS\n FROM CITY 2": 14216,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 149.7
+  },
+  {
+    "SL.No.": 309,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 82385,
+    "PASSENGERS\n FROM CITY 2": 85907,
+    "FREIGHT\n TO CITY 2": 3131.1,
+    "FREIGHT\n FROM CITY 2": 3146.1
+  },
+  {
+    "SL.No.": 310,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "TIRUCHIRAPALLY",
+    "PASSENGERS\n TO CITY 2": 55484,
+    "PASSENGERS\n FROM CITY 2": 55354,
+    "FREIGHT\n TO CITY 2": 1.6,
+    "FREIGHT\n FROM CITY 2": 502.3
+  },
+  {
+    "SL.No.": 311,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "TRIVANDRUM",
+    "PASSENGERS\n TO CITY 2": 10355,
+    "PASSENGERS\n FROM CITY 2": 10168,
+    "FREIGHT\n TO CITY 2": 4.2,
+    "FREIGHT\n FROM CITY 2": 51.9
+  },
+  {
+    "SL.No.": 312,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "VISAKHAPATNAM",
+    "PASSENGERS\n TO CITY 2": 3699,
+    "PASSENGERS\n FROM CITY 2": 4888,
+    "FREIGHT\n TO CITY 2": 20.8,
+    "FREIGHT\n FROM CITY 2": 23.1
+  },
+  {
+    "SL.No.": 313,
+    "CITY 1": "SINGAPORE",
+    "CITY 2": "VIJAYAWADA",
+    "PASSENGERS\n TO CITY 2": 2519,
+    "PASSENGERS\n FROM CITY 2": 2714,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 314,
+    "CITY 1": "STOCKHOLM",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 7813,
+    "PASSENGERS\n FROM CITY 2": 8503,
+    "FREIGHT\n TO CITY 2": 206.5,
+    "FREIGHT\n FROM CITY 2": 211.1
+  },
+  {
+    "SL.No.": 315,
+    "CITY 1": "SYDNEY",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 13262,
+    "PASSENGERS\n FROM CITY 2": 14713,
+    "FREIGHT\n TO CITY 2": 140.8,
+    "FREIGHT\n FROM CITY 2": 153.7
+  },
+  {
+    "SL.No.": 316,
+    "CITY 1": "TAIPAE",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 6809,
+    "PASSENGERS\n FROM CITY 2": 7443,
+    "FREIGHT\n TO CITY 2": 775.4,
+    "FREIGHT\n FROM CITY 2": 203
+  },
+  {
+    "SL.No.": 317,
+    "CITY 1": "TAIPAE",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 24.6,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 318,
+    "CITY 1": "TASHKENT",
+    "CITY 2": "AMRITSAR",
+    "PASSENGERS\n TO CITY 2": 2778,
+    "PASSENGERS\n FROM CITY 2": 3641,
+    "FREIGHT\n TO CITY 2": 0.3,
+    "FREIGHT\n FROM CITY 2": 7.7
+  },
+  {
+    "SL.No.": 319,
+    "CITY 1": "TASHKENT",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 15948,
+    "PASSENGERS\n FROM CITY 2": 15037,
+    "FREIGHT\n TO CITY 2": 13.1,
+    "FREIGHT\n FROM CITY 2": 474
+  },
+  {
+    "SL.No.": 320,
+    "CITY 1": "TASHKENT",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 3676,
+    "PASSENGERS\n FROM CITY 2": 3496,
+    "FREIGHT\n TO CITY 2": 0.2,
+    "FREIGHT\n FROM CITY 2": 85.8
+  },
+  {
+    "SL.No.": 321,
+    "CITY 1": "TEHRAN",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 6283,
+    "PASSENGERS\n FROM CITY 2": 6537,
+    "FREIGHT\n TO CITY 2": 22.8,
+    "FREIGHT\n FROM CITY 2": 461.1
+  },
+  {
+    "SL.No.": 322,
+    "CITY 1": "TEHRAN",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 4329,
+    "PASSENGERS\n FROM CITY 2": 3963,
+    "FREIGHT\n TO CITY 2": 8.9,
+    "FREIGHT\n FROM CITY 2": 142.2
+  },
+  {
+    "SL.No.": 323,
+    "CITY 1": "TELAVIV",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 11465,
+    "PASSENGERS\n FROM CITY 2": 12975,
+    "FREIGHT\n TO CITY 2": 176.5,
+    "FREIGHT\n FROM CITY 2": 331.2
+  },
+  {
+    "SL.No.": 324,
+    "CITY 1": "TELAVIV",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 5110,
+    "PASSENGERS\n FROM CITY 2": 6324,
+    "FREIGHT\n TO CITY 2": 269,
+    "FREIGHT\n FROM CITY 2": 455.8
+  },
+  {
+    "SL.No.": 325,
+    "CITY 1": "TOKYO",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 12992,
+    "PASSENGERS\n FROM CITY 2": 15769,
+    "FREIGHT\n TO CITY 2": 1349.8,
+    "FREIGHT\n FROM CITY 2": 1137.8
+  },
+  {
+    "SL.No.": 326,
+    "CITY 1": "TORONTO",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 23085,
+    "PASSENGERS\n FROM CITY 2": 25698,
+    "FREIGHT\n TO CITY 2": 34.8,
+    "FREIGHT\n FROM CITY 2": 132.9
+  },
+  {
+    "SL.No.": 327,
+    "CITY 1": "Vancouver",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 8061,
+    "PASSENGERS\n FROM CITY 2": 12743,
+    "FREIGHT\n TO CITY 2": 1.9,
+    "FREIGHT\n FROM CITY 2": 38.9
+  },
+  {
+    "SL.No.": 328,
+    "CITY 1": "VIENNA",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 9990,
+    "PASSENGERS\n FROM CITY 2": 11031,
+    "FREIGHT\n TO CITY 2": 145.7,
+    "FREIGHT\n FROM CITY 2": 193.1
+  },
+  {
+    "SL.No.": 329,
+    "CITY 1": "VIENNA",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 1,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 330,
+    "CITY 1": "WASHINGTON, DC",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 8513,
+    "PASSENGERS\n FROM CITY 2": 8791,
+    "FREIGHT\n TO CITY 2": 76.5,
+    "FREIGHT\n FROM CITY 2": 165.8
+  },
+  {
+    "SL.No.": 331,
+    "CITY 1": "ZURICH",
+    "CITY 2": "DELHI",
+    "PASSENGERS\n TO CITY 2": 17469,
+    "PASSENGERS\n FROM CITY 2": 19332,
+    "FREIGHT\n TO CITY 2": 1121.9,
+    "FREIGHT\n FROM CITY 2": 1089.5
+  },
+  {
+    "SL.No.": 332,
+    "CITY 1": "ZURICH",
+    "CITY 2": "MUMBAI",
+    "PASSENGERS\n TO CITY 2": 17504,
+    "PASSENGERS\n FROM CITY 2": 20705,
+    "FREIGHT\n TO CITY 2": 1300.6,
+    "FREIGHT\n FROM CITY 2": 1575.4
+  },
+  {
+    "SL.No.": "SUB TOTAL",
+    "CITY 1": "",
+    "CITY 2": "",
+    "PASSENGERS\n TO CITY 2": 7750138,
+    "PASSENGERS\n FROM CITY 2": 7809958,
+    "FREIGHT\n TO CITY 2": 162403,
+    "FREIGHT\n FROM CITY 2": 264779
+  },
+  {
+    "SL.No.": "TABLE 4.  CITYPAIRWISE INTERNATIONAL PASSENGER AND FREIGHT CARRIED BY DOMESTIC CARRIERS ENTIRELY OUTSIDE THE INDIAN TERRITORY DURING THE QUARTER JAN-MAR 2019 (P)",
+    "CITY 1": "",
+    "CITY 2": "",
+    "PASSENGERS\n TO CITY 2": "",
+    "PASSENGERS\n FROM CITY 2": "",
+    "FREIGHT\n TO CITY 2": "",
+    "FREIGHT\n FROM CITY 2": ""
+  },
+  {
+    "SL.No.": "(PASSENGERS IN NUMBER AND FREIGHT IN TONNES)",
+    "CITY 1": "",
+    "CITY 2": "",
+    "PASSENGERS\n TO CITY 2": "",
+    "PASSENGERS\n FROM CITY 2": "",
+    "FREIGHT\n TO CITY 2": "",
+    "FREIGHT\n FROM CITY 2": ""
+  },
+  {
+    "SL.No.": "SL.No.",
+    "CITY 1": "CITY 1",
+    "CITY 2": "CITY 2",
+    "PASSENGERS\n TO CITY 2": "PASSENGERS TO CITY 2",
+    "PASSENGERS\n FROM CITY 2": "PASSENGERS FROM CITY 2",
+    "FREIGHT\n TO CITY 2": "FREIGHT TO CITY 2",
+    "FREIGHT\n FROM CITY 2": "FREIGHT FROM CITY 2"
+  },
+  {
+    "SL.No.": 1,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "OSAKA",
+    "PASSENGERS\n TO CITY 2": 3327,
+    "PASSENGERS\n FROM CITY 2": 3125,
+    "FREIGHT\n TO CITY 2": 117.2,
+    "FREIGHT\n FROM CITY 2": 128.8
+  },
+  {
+    "SL.No.": 2,
+    "CITY 1": "HONG KONG",
+    "CITY 2": "SEOUL",
+    "PASSENGERS\n TO CITY 2": 4583,
+    "PASSENGERS\n FROM CITY 2": 5889,
+    "FREIGHT\n TO CITY 2": 164.2,
+    "FREIGHT\n FROM CITY 2": 168.4
+  },
+  {
+    "SL.No.": 3,
+    "CITY 1": "SHARJAH",
+    "CITY 2": "SULAYMANIYAH",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 31.5,
+    "FREIGHT\n FROM CITY 2": 0
+  },
+  {
+    "SL.No.": 4,
+    "CITY 1": "TEHRAN",
+    "CITY 2": "RASALKHAMA",
+    "PASSENGERS\n TO CITY 2": 0,
+    "PASSENGERS\n FROM CITY 2": 0,
+    "FREIGHT\n TO CITY 2": 0,
+    "FREIGHT\n FROM CITY 2": 176.9
+  },
+  {
+    "SL.No.": 5,
+    "CITY 1": "TORONTO",
+    "CITY 2": "AMSTERDAM",
+    "PASSENGERS\n TO CITY 2": 1575,
+    "PASSENGERS\n FROM CITY 2": 2201,
+    "FREIGHT\n TO CITY 2": 25.8,
+    "FREIGHT\n FROM CITY 2": 128.4
+  },
+  {
+    "SL.No.": "SUB TOTAL",
+    "CITY 1": "",
+    "CITY 2": "",
+    "PASSENGERS\n TO CITY 2": 9485,
+    "PASSENGERS\n FROM CITY 2": 11215,
+    "FREIGHT\n TO CITY 2": 338.7,
+    "FREIGHT\n FROM CITY 2": 602.4
+  },
+  {
+    "SL.No.": "GRAND TOTAL",
+    "CITY 1": "",
+    "CITY 2": "",
+    "PASSENGERS\n TO CITY 2": 7759623,
+    "PASSENGERS\n FROM CITY 2": 7821173,
+    "FREIGHT\n TO CITY 2": 162741.8,
+    "FREIGHT\n FROM CITY 2": 265380.9
+  },
+  {
+    "SL.No.": "P-Provisional.",
+    "CITY 1": "",
+    "CITY 2": "",
+    "PASSENGERS\n TO CITY 2": "",
+    "PASSENGERS\n FROM CITY 2": "",
+    "FREIGHT\n TO CITY 2": "",
+    "FREIGHT\n FROM CITY 2": ""
+  }
+]
